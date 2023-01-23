@@ -31,7 +31,7 @@
 
 - Clone this [repository](https://github.com/codinggaurav7/Portfolio--Gaurav-Gupta) to your local machine 
 - ```
-  git clone git@github.com:Meri-MG/portfolio---react.git
+  git@github.com:codinggaurav7/Portfolio--Gaurav-Gupta.git
   ```
 
 - Navigate to `cd portfolio---react`  directory.
