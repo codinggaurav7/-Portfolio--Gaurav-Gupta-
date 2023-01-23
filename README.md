@@ -48,7 +48,7 @@
 
 ## Author
 
-:men: **Gaurav Gupta**
+ **Gaurav Gupta**
 
 - [GitHub](https://github.com/codinggaurav7)
 - [LinkedIn](https://www.linkedin.com/in/gaurav0704/)
