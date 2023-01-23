@@ -29,7 +29,7 @@
 
 - Choose a folder in your local machine where you want this repository to be copied
 
-- Clone this [repository](https://github.com/Meri-MG/portfolio---react) to your local machine 
+- Clone this [repository](https://github.com/codinggaurav7/Portfolio--Gaurav-Gupta) to your local machine 
 - ```
   git clone git@github.com:Meri-MG/portfolio---react.git
   ```
